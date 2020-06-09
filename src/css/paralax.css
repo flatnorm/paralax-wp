@@ -1,4 +1,6 @@
 .p-section-header__upper{
-    background-attachment: fixed;
-    background-position: 50% 0;
+    /* background-attachment: fixed; */
+    background-size: 100% auto !important;
+    /* background-position: 50% 50%; */
+    background-position: center center;
 }

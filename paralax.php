@@ -2,7 +2,7 @@
 /**
  * Plugin Name: ParalaxPlus
  * Description: Plugin to add paralax to tcd_056
- * Version: 1.0.0
+ * Version: 2.0.0
  * Author: Kai Ono
  * License: GPL-3.0-or-later
  * License URI:  https://www.gnu.org/licenses/rms-why-gplv3.html
