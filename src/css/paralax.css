@@ -3,4 +3,6 @@
     background-size: 100% auto !important;
     /* background-position: 50% 50%; */
     background-position: center center;
+
+    background-color: blue !important;
 }
